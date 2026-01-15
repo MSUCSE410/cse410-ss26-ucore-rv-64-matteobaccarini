@@ -23,3 +23,5 @@ void main()
 	loader_init();
 	run_next_app();
 }
+
+///hello world!
